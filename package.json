@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ganache": "^6.4.5",
+    "ganache-cli": "^6.12.2",
+    "node": "^17.3.0"
+  }
+}
